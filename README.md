@@ -1,10 +1,13 @@
 # Run website
+Fork the Repository
+Clone the Repository to your PC
 
 # screenshots of the web application
-![CoverPagewithNavBar] (src/images/1.png)
-![BookList] (src/images/2.png)
-![BookList] (src/images/3.png)
-![MoreDetailsOfBooks] (src/images/4.png)
+![CoverPagewithNavBar](src/images/1.png)
+![BookList](src/images/2.png)
+![BookList](src/images/3.png)
+![MoreDetailsOfBooks](src/images/4.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
