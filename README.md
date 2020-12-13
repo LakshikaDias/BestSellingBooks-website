@@ -1,6 +1,8 @@
 # Run website
-Fork the Repository
-Clone the Repository to your PC
+-Fork the Repository
+-Clone the Repository to your PC
+-Install react if haven't inatall it
+-Run the application  using npm start
 
 # screenshots of the web application
 ![CoverPagewithNavBar](src/images/1.png)
